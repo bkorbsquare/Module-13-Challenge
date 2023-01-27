@@ -1,0 +1,28 @@
+{
+  "name": "module-13-challenge",
+  "version": "1.0.0",
+  "description": "E-Commerce Back End",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkorbsquare/Module-13-Challenge.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkorbsquare/Module-13-Challenge/issues"
+  },
+  "homepage": "https://github.com/bkorbsquare/Module-13-Challenge#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
+  }
+}
