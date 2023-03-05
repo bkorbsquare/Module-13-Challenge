@@ -13,7 +13,7 @@ On GitHub.com, navigate to the main page of the repository. Above the list of fi
 
 ## Usage
 
-Use this project as a reference when building an Employee Tracker.
+Use this project as a reference when building an E-commerce Back End.
 
 ![image](/assets/Screenshot%202023-03-04%20211232.jpg)
 
